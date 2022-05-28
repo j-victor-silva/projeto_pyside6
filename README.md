@@ -1,0 +1,1 @@
+# projeto_pyside6
