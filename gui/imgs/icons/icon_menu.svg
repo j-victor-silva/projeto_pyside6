@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="18.4"
+   height="18.4"
+   viewBox="0 0 4.8683331 4.8683332"
+   version="1.1"
+   id="svg2357"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="icon_menu.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2359"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="22.778203"
+     inkscape:cx="12.687568"
+     inkscape:cy="8.2096029"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2354" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:export-ydpi="288.13419"
+       inkscape:export-xdpi="288.13419"
+       inkscape:export-filename="E:\ESTUDOS\TUTORIAIS\NEW\Qt Widgets Projects\PyOneDark\Layout\Exports\Preview_01.png"
+       id="rect4"
+       style="fill:#c3ccdf;fill-opacity:1;stroke-width:0.0149578"
+       d="m 0.05291651,0.04774902 v 0.529166 H 4.8154166 v -0.529166 z m 0,2.12183408 v 0.529167 H 4.8154166 v -0.529167 z m 0,2.121834 v 0.529167 H 4.8154166 v -0.529167 z" />
+  </g>
+</svg>
