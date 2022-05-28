@@ -55,14 +55,14 @@
         <widget class="QLabel" name="label_3">
          <property name="font">
           <font>
-           <family>Segoe UI</family>
+           <family>jetbrains mono</family>
            <pointsize>14</pointsize>
            <italic>false</italic>
            <bold>true</bold>
           </font>
          </property>
          <property name="styleSheet">
-          <string notr="true">font: 700 14pt &quot;Segoe UI&quot;;
+          <string notr="true">font: 700 14pt &quot;jetbrains mono&quot;;
 color: rgb(255, 255, 255);</string>
          </property>
          <property name="text">
@@ -77,13 +77,13 @@ color: rgb(255, 255, 255);</string>
            <property name="minimumSize">
             <size>
              <width>0</width>
-             <height>28</height>
+             <height>30</height>
             </size>
            </property>
            <property name="maximumSize">
             <size>
              <width>16777215</width>
-             <height>28</height>
+             <height>30</height>
             </size>
            </property>
            <property name="styleSheet">
@@ -91,7 +91,7 @@ color: rgb(255, 255, 255);</string>
 	font: 8pt &quot;Segoe UI&quot;;
 	background-color: rgb(68, 71, 90);
 	padding: 8px;
-	border: 2px solid #c3ccd;
+	border: 2px solid #c3ccdf;
 	color: rgb(255, 255, 255);
 	border-radius: 10px;
 }</string>
@@ -106,13 +106,13 @@ color: rgb(255, 255, 255);</string>
            <property name="minimumSize">
             <size>
              <width>80</width>
-             <height>28</height>
+             <height>30</height>
             </size>
            </property>
            <property name="maximumSize">
             <size>
              <width>16777215</width>
-             <height>28</height>
+             <height>30</height>
             </size>
            </property>
            <property name="styleSheet">
